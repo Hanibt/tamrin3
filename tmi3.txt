@@ -1,0 +1,139 @@
+<!DOCTYPE html>
+<html lang="fn" dir="rtl">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <link href="css/bootstrap.min.css" rel="stylesheet">
+    <script src="js/bootstrap.bundle.min.js"></script>
+</head>
+
+<body>
+<nav class="navbar navbar-expand-lg navbar-light bg-light">
+    <div class="container-fluid">
+        <a class="navbar-brand" href="#"><img src="14.png" class="rounded-circle" alt="" style="width: 60px " height="60px" ></a>
+        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarNav" >
+            <ul class="navbar-nav">
+                <li class="nav-item">
+                    <a class="nav-link active" aria-current="page" href="#" style="color: #1457ff" >خانه</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="#" style="color: #1457ff">محصولات</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="#"style="color: #1457ff">مقالات</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="#" style="color: #1457ff">درباره ما</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="#"style="color: #1457ff">تماس با ما</a>
+                </li>
+            </ul>
+        </div>
+    </div>
+</nav>
+
+<div id="carouselExampleIndicators" class="carousel slide" data-bs-ride="carousel">
+    <div class="carousel-indicators">
+        <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></button>
+        <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="1" aria-label="Slide 2"></button>
+        <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="2" aria-label="Slide 3"></button>
+    </div>
+    <div class="carousel-inner">
+        <div class="carousel-item active">
+            <img src="22.png" class="d-block w-100" alt="..." height="600px">
+        </div>
+        <div class="carousel-item">
+            <img src="33.png" class="d-block w-100" alt="..." height="600px">
+        </div>
+        <div class="carousel-item">
+            <img src="11.png" class="d-block w-100" alt="..." height="600px">
+        </div>
+    </div>
+    <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide="prev">
+        <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+        <span class="visually-hidden">Previous</span>
+    </button>
+    <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide="next">
+        <span class="carousel-control-next-icon" aria-hidden="true"></span>
+        <span class="visually-hidden">Next</span>
+    </button>
+</div>
+<h3 style="color:blue;">خرید و فروش انواع ماشین های صفر و کار کرده</h3>
+<div class="container mb-4">
+
+    <div class="row mt-4 mb-5">
+        <div class="col-md-6 col-sm-12 col-xl-4"> <img src="2.png"class="img-fluid img-thumbnail">
+            <button type="button" class="btn btn-primary">سفارش طرح عادی</button>
+        </div>
+
+        <div class="col-md-6 col-sm-12 col-xl-4"> <img src="7.png" class="img-fluid img-thumbnail">
+
+            <button type="button" class="btn btn-primary">سفارش طرح عادی</button>
+        </div>
+
+        <div class="col-md-6 col-sm-12 col-xl-4">
+            <img src="8.png" class="img-fluid img-thumbnail">
+            <button type="button" class="btn btn-primary">سفارش طرح عادی</button>
+        </div>
+        <div class="col-md-6 col-sm-12 col-xl-4">
+            <img src="8.png" class="img-fluid img-thumbnail">
+            <button type="button" class="btn btn-primary">سفارش طرح عادی</button>
+        </div>
+        <div class="col-md-6 col-sm-12 col-xl-4">
+            <img src="8.png" class="img-fluid img-thumbnail">
+            <button type="button" class="btn btn-primary">سفارش طرح عادی</button>
+        </div>
+        <div class="col-md-6 col-sm-12 col-xl-4">
+            <img src="1.png" class="img-fluid img-thumbnail">
+            <button type="button" class="btn btn-primary">سفارش طرح عادی</button>
+        </div>
+        <div class="row mt-4">
+            <div class="col-lg-6 col-sm-12"><img src="50.jpg" style="width: 400px" height="400px"></div>
+            <div class="col-lg-6 col-sm-12"><p style="color: #2f31b4" style="background-color: #1457ff">
+                شرایط عمومی تعیین شده مندرج در ماده 4 دستورالعمل تنظیم بازار خودروی سواری توسط شورای رقابت
+                1.هر کد ملی مجاز به خرید یک دستگاه خودرو از مجموع شرکت های خودروسازی می باشد.
+                2.حداقل سن مجاز متقاضیان خرید خودرو 18 سال می باشد.
+                3.دارا بودن گواهینامه رانندگی برای متقاضیان خرید خودرو الزامی است.
+                4.متقاضیانی که طی 48 ماهه گذشته در شرکت های ایران خودرو و سایپا و طی 24 ماهه گذشته از سایر شرکت های خودروسازی نسبت به ثبت نام و یا صدور فاکتور (تمامی روش های فروش سامانه خودروسازان، بورس کالا و ...) اقدام نموده اند، امکان ثبت نام و خرید خودرو را ندارند.
+                5.متقا ضیانی که دارای پلاک انتظامی فعال هستند، امکان ثبت نام و خرید خودرو را ندارند.
+                6.انتقال امتیاز و حقوق ناشی از خرید خودرو به اشخاص (حتی به صورت وکالتی) و نیز فروش حواله خودرو به صورت وکالتی ممنوع است.
+                7.امکان صلح خودروی خریداری شده به غیر وجود ندارد.
+                8.شرکت های خودروسازی موظف اند روش های بازدارنده برای جلوگیری از انتقال سند حداقل به مدت یک سال، از جمله رهن گرفتن سند خودرو را اتخاذ و اجرا کند.
+                9.امکان ثبت نام و خرید خودرو برای اشخاص حقوقی وجود ندارد.</p></div>
+        </div>
+
+    </div>
+    <form>
+        <div class="mb-3 row mt-4" >
+            <label for="staticEmail" class="col-sm-2 col-form-label" style="margin-right: 30px">پست الکترونیک:</label>
+            <div class="col-sm-8" >
+                <input type="text"  class="form-control" id="staticEmail" STYLE="border-color: #4691de">
+            </div>
+        </div>
+        <div class="mb-3 row" >
+            <label for="inputPassword" class="col-sm-2 col-form-label" style="margin-right: 30px">رمز عبور:</label>
+            <div class="col-sm-8">
+                <input type="password" class="form-control" id="inputPassword"  STYLE="border-color: #4691de">
+                <button type="button" class="btn btn-primary" >تایید</button>
+            </div>
+        </div>
+    </form>
+</div>
+
+<footer>
+    <div class="col-LG-4 col-sm-12"><p>درباره سایت:خرید و فروش ماشین <br>
+        <a href="mailto:hege@example.com">mashin@gmail.com</a></p></div>
+
+    <div class="col-LG-4 col-sm-12"><img src="14.png" class="rounded-circle" alt="" style="width: 60px " height="60px" ></div>
+
+    <div class="col-LG-4 col-sm-12"><p>در شبکه های مجازی مارا دنبال کنید<br>
+        <img src="02.jpg" class="rounded-circle" alt="WhatsApp " style="width: 20px " height="20px" >
+        <img src="01.png" class="rounded-circle" alt="Instagram " style="width: 20px " height="20px" > </p></div>
+
+</footer>
+</body>
+</html>
